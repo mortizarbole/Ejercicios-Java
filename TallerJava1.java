@@ -4,7 +4,7 @@ public class TallerJava1 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        /*System.out.println("ejercicio 1");
+        System.out.println("ejercicio 1");
         int n = scanner.nextInt();
         NumerosPares(n);
         System.out.println("ejercicio 2");
@@ -17,8 +17,6 @@ public class TallerJava1 {
         System.out.println("ejercicio 4");
         n = scanner.nextInt();
         NumerosPrimos(n);
-
-         */
         System.out.println("ejercicio 5");
         int n = scanner.nextInt();
         int m = scanner.nextInt();
